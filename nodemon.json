@@ -1,0 +1,12 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "Garhumv7Gn5LLRCG",
+        "JWT_KEY": "secret_this_should_be_longer",
+        "JAR_STAGING_FOLDER": "C:/Users/QuinnFreas/Documents/Projects/jitterbit-uploader/backend/jars/",
+        "JITTERBIT_HOST": "na-east.jitterbit.com",
+        "MIME_TYPE_MAP": {
+            "jar/jar": "jar",
+            "application/octet-stream": "jar"
+        }
+    }
+}
